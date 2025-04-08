@@ -1,7 +1,4 @@
 # Software Architecture Class Notes
-
-*Course Material derived from the "Why.pdf" Document*
-
 ---
 
 ## Table of Contents
