@@ -12,8 +12,6 @@
 4. [Case Study: SundarBan – A Place to Buy and Sell](#case-study-sundarban--a-place-to-buy-and-sell)
 5. [API Design and Microservices Communication](#api-design-and-microservices-communication)
 6. [Event-Driven Microservices Architecture](#event-driven-microservices-architecture)
-7. [Practical Exercise](#practical-exercise)
-8. [Conclusion](#conclusion)
 
 ---
 
